@@ -1,9 +1,11 @@
-
-
+<!DOCTYPE html>
+<html>
     <head>
         <meta charset="utf-8" />
         <title>Challenge Cefim</title>
     </head>
+
+    <body>
 
     
     <h1> Ma Super Presentation!!!!</h1>
@@ -39,7 +41,8 @@
     
     <h2> Et voila c'est la fin de ma presentation!!! <h2>
     
-
+</body>
+</html>
     
     
 
