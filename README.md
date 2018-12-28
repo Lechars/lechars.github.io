@@ -32,9 +32,9 @@
     
     <ol>
     
-    <li><a href =https://www.courrierinternational.com/> Un peu d'info </a></li>
-    <li><a href =https://www.grospixels.com/site/index.php/> Un peu de High Tech </a></li>
-    <li><a href =http://www.nanarland.com/> Un peu de cinema d'auteur </a></li>
+    <li><a href =https://www.courrierinternational.com> Un peu d'info </a></li>
+    <li><a href =https://www.grospixels.com/site/index.php> Un peu de High Tech </a></li>
+    <li><a href =http://www.nanarland.com> Un peu de cinema d'auteur </a></li>
       
     </ol>
     
