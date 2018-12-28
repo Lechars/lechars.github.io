@@ -28,8 +28,20 @@
     
     <h3> Dsl je ne suis pas sur le sreseaux sociaux, j'ai suprimé mon compte Facebook il y a peut. C'etait trop Chronophage!!</h3>
     
+    <h2> Voici des liens vers quelques sites que j'aime bien ! </h2>
+    
+    <ol>
+    
+    <li><a href =https://www.courrierinternational.com/> Un peu d'info </a></li>
+    <li><a href =https://www.grospixels.com/site/index.php/> Un peu de High Tech </a></li>
+    <li><a href =http://www.nanarland.com/> Un peu de cinema d'auteur </a></li>
+      
+    </ol>
     
     
     
     </body>
 </html>
+    
+    
+
