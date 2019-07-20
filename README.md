@@ -9,14 +9,21 @@
     
     <h1> Pourquoi devenir developpeur??</h1>
     
-    <h2> Pourquoi devenir Dev???</h2>
+    <h2> Mon parcours</h2>
     
-    <p>Possédant de bonnes bases en informatique j'ai fait le choix de m'orienter vers le métier porteur de développeur web. 
-    Le secteur porteur du développement de sites internet  me permettra d’accéder à un emploi pérenne et <mark>intéressant</mark>. 
-    De plus, fort de mes expériences   en Système d'Information Géographique, je sais que certains langages de programmations 
-    informatique utilisés en développement web  (html, css et javascript) sont également utilisés  dans ce domaine.</p>
-  Au sortir de mes études, j'ai cherché  à exercer comme topographe/géomaticien sur des chantiers archéologiques. Mon travail consistait à effectuer des levées de terrain puis à concevoir les plans du chantier sous SIG. J'ai également conçu et alimenté un système d'information géographique pour l'INRAP (Institut National de Recherche en Archéologie Préventive). Mais la nature sporadique de l'emploi dans cette branche m'a amené  à diversifier mes expériences entre deux contrat en archéologie.
-	C'est de cette manière que je me suis perfectionné en géomatique et que j'ai approfondi un domaine qui m’intéresse. Je suis maintenant à la recherche d' un emploi dans lequel je pourrai mettre à profit mes connaissances et monter en compétence.
+    <p>P Après une licence d'Histoire et un master d'archéologie, j'ai exercé comme topographe et cartographe sur des chantiers 
+    archéologiques. Mon travail consistait à effectuer des levées de terrain puis à concevoir les plans du chantier 
+    sous systeme d'information géographique (outil mélangeant base de données et cartes). Mais la nature sporadique de l'emploi 
+    en archéologie m'a amené  à diversifier mes expériences. 
+        J'ai donc trouvé un emploi à l'IGN (Institut Géographique National) et c'est dans le cadre de cette expérience passionnante que
+    j'ai découvert le code. Je devais ecrire un script pour la recette de données et évaluer la conformité de ces données vis à vis de 
+    spécifications. Cela m'a beaucoup plu et j'ai continué d'apprendre Python , le SQL et la modélisation de base de donnée par moi-même.
+    Puis j'ai fait le choix de m'orienter vers le métier porteur de développeur web. Le secteur porteur du développement de sites internet  me permettra d’accéder à un 
+    emploi pérenne et <mark>intéressant</mark>. De plus, connaissant un peu les système d'information géographique, je sais que certains langages de programmations 
+    informatique utilisés en développement web  (html, css et javascript) sont  également utilisés  dans ce domaine. </p>
+    
+    
+    
     <h2> Mes hobbies </h2>
     
     <ul>
