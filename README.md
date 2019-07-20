@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8" />
@@ -41,8 +40,6 @@
     
     <h2> Et voila c'est la fin de ma presentation!!! <h2>
     
-</body>
-</html>
-    
+
     
 
