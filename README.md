@@ -1,6 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
+        <link rel="stylesheet" href="https://github.com/Lechars/lechars.github.io/blob/master/lecss.css" />
         <title>Challenge Cefim</title>
     </head>
 
