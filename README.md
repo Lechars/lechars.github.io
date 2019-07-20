@@ -12,7 +12,7 @@
     
     <h2> Mon parcours</h2>
     
-    <p>P Après une licence d'Histoire et un master d'archéologie, j'ai exercé comme topographe et cartographe sur des chantiers 
+    <p>Après une licence d'Histoire et un master d'archéologie, j'ai exercé comme topographe et cartographe sur des chantiers 
     archéologiques. Mon travail consistait à effectuer des levées de terrain puis à concevoir les plans du chantier 
     sous systeme d'information géographique (outil mélangeant base de données et cartes). Mais la nature sporadique de l'emploi 
     en archéologie m'a amené  à diversifier mes expériences. 
