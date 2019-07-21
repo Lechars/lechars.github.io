@@ -12,7 +12,7 @@ body::after {
   left: 0;
   bottom: 0; 
   right: 0;
-  position: fixed;
+  position: absolute;
   height: 120%;
   width: auto;
   z-index: -1; 
