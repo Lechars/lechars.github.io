@@ -6,7 +6,7 @@ background-color:white;
 body::after {
   content: "";
   background-image:url("https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700091/29971208-pointill%C3%A9-bleu-carte-du-monde-isol%C3%A9-sur-blanc-vector-illustration.jpg");
-  opacity: 0.2;
+  opacity: 0.4;
   top: 0;
   left: 0;
   bottom: 0;
@@ -29,6 +29,4 @@ h1 {
 	
 
 
-p {
-    font-weight: bold;
-}
+
