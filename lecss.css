@@ -8,15 +8,16 @@ background-position:50% 50%;
 img {
 	width: 150px;
 	height: auto;
-	opacity: 0.5;
 }
 
 h1 {   
 	background-image:url("https://nanocosmo.files.wordpress.com/2016/01/schema_azerty_simple_non-transparent_1800x627.png")
+	max-width: 100%;
+        height: auto;
 }
 	
 
-h2
-{
+
+p {
     font-weight: bold;
 }
