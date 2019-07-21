@@ -29,7 +29,7 @@
     
     <ul>
     
-    <li>L'Archeologie!<br/><a href ="https://ici.radio-canada.ca/nouvelle/679073/ile-st-barnabe-decouverte-epoque-amerindienne">  <img src = https://img.src.ca/2014/08/06/1250x703/140806_ak2tk_fouilles-ile-saint-barnabe_sn1250.jpg /> </a> </li>
+    <li>L'Archeologie!<br/><a href ="https://ici.radio-canada.ca/nouvelle/679073/ile-st-barnabe-decouverte-epoque-amerindienne"><img src = https://img.src.ca/2014/08/06/1250x703/140806_ak2tk_fouilles-ile-saint-barnabe_sn1250.jpg /></a> </li>
     <li>le Velo!<br /><img src="https://cdn.pixabay.com/photo/2013/07/13/13/43/racing-bicycle-161449_960_720.png" alt="un velo" /></li>
     <li>Le Retro Gaming!<br/> <img src ="https://media1.giphy.com/media/KLRRLrP7BNd6M/200w.webp?cid=790b76115d3479294d43684a7319c131&rid=200w.webp" alt = "DOOM"/></li>
     <li>Voyager!<br /><img src="https://image.shutterstock.com/image-photo/airplane-taking-off-airport-450w-559714906.jpg" alt="un                              avion" /></li>
