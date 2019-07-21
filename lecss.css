@@ -1,9 +1,13 @@
 body {
 color:black;
 background-color:white;
-background-image:url("https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700091/29971208-pointill%C3%A9-bleu-carte-du-monde-isol%C3%A9-sur-blanc-vector-illustration.jpg");
-background-position:50% 50%;
-opacity: 0.3;
+}
+
+body::after {
+  content: "";
+  background-image:url("https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700091/29971208-pointill%C3%A9-bleu-carte-du-monde-isol%C3%A9-sur-blanc-vector-illustration.jpg");
+  background-position:50% 50%;
+  opacity: 0.5;
 }
 
 img {
@@ -12,7 +16,7 @@ img {
 }
 
 h1 {   
-	background-image:url("https://nanocosmo.files.wordpress.com/2016/01/schema_azerty_simple_non-transparent_1800x627.png")
+	background-image:url("https://nanocosmo.files.wordpress.com/2016/01/schema_azerty_simple_non-transparent_1800x627.png");
 	background-size: auto;
 }
 	
