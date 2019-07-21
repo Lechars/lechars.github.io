@@ -13,7 +13,7 @@ body::after {
   right: 0;
   position: absolute;
   z-index: -1; 
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 
 img {
@@ -21,13 +21,15 @@ img {
 	height: auto;
 }
 
+/**
 h1 {   
 	height:1500%;
 	background-image:url("https://nanocosmo.files.wordpress.com/2016/01/schema_azerty_simple_non-transparent_1800x627.png");
 	background-size: auto
 	background-position: center;;
-}
-	
+} */
+
+
 
 
 
