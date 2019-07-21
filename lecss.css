@@ -10,7 +10,7 @@ body::after {
   opacity: 0.3;
   position: fixed;
   background-position: center;
-  background-size: 150%;
+  background-size: contain;
   background-repeat: no-repeat;
   z-index: -1; 
  }
