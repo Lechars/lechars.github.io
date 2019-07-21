@@ -13,7 +13,7 @@ body::after {
   bottom: 0;
   right: 0;
   position: fixed;
-  background-size: contain;
+  background-size: 110%;
   background-repeat: no-repeat;
   z-index: -1; 
  }
