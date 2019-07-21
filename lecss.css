@@ -8,6 +8,7 @@ background-position:50% 50%;
 img {
 	width: 150px;
 	height: auto;
+	opacity: 0.5;
 }
 
 h1 {   
