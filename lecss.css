@@ -5,4 +5,7 @@ background-image:url("https://previews.123rf.com/images/in8finity/in8finity1407/
 background-position:50% 50%;
 }
 
-
+img {
+	width: 50px;
+	height: auto;
+}
