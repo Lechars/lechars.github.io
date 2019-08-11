@@ -6,7 +6,7 @@ position: relative;
 
 body::after {
   content: "";
-  background-image:url("https://previews.123rf.com/images/in8finity/in8finity1407/in8finity140700091/29971208-pointill%C3%A9-bleu-carte-du-monde-isol%C3%A9-sur-blanc-vector-illustration.jpg");
+  background-image:url("https://t3.ftcdn.net/jpg/01/59/35/46/500_F_159354603_kuWqUq8mHWQa88o6hNKn7smH8U9Rdu8D.jpg");
   opacity: 0.3;
   top: 0;
   left: 0;
@@ -33,7 +33,7 @@ font-size:3.5em;
 padding-left: 10%;
 height : 3em;
 position: relative; 
-background-image: url("https://lh3.googleusercontent.com/-ayKZgVvCO_0/WG0Q2702BgI/AAAAAAAAFro/cEhryPQOBbg/s1600-h/azerty-qwerty%25255B4%25255D.jpg");
+background-image: url("https://t3.ftcdn.net/jpg/01/59/35/46/500_F_159354603_kuWqUq8mHWQa88o6hNKn7smH8U9Rdu8D.jpg");
 background-size: cover;
 background-position: center 30%;
 padding-top:2em;
