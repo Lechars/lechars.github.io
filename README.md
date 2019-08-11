@@ -1,16 +1,21 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="lecss.css" />
+        <link href="css.css" rel="stylesheet" />
         <title>Challenge Cefim</title>
     </head>
 
     <body>
 
-    
-    <h1> Pourquoi devenir developpeur??</h1>
-    
+	
+    <h1>          Pourquoi devenir developpeur??  </h1>
+    <!--https://www.deviantart.com/supastarfox/art/Sonic-The-Hedgehog-NES-Title-Screen-GIF-783798030 -->
+
+	
+
     <h2> Mon parcours</h2>
+	
+	
     
     <p>Après une licence d'Histoire et un master d'archéologie, j'ai exercé comme topographe et cartographe sur des chantiers 
     archéologiques. Mon travail consistait à effectuer des levées de terrain puis à concevoir les plans du chantier 
@@ -46,8 +51,4 @@
       
     </ol>
     
-    <h2> Et voila c'est la fin de ma presentation!!! <h2>
-    
-
-    
-
+    <h2 id="id"> Et voila c'est la fin de ma presentation!!! <h2>
