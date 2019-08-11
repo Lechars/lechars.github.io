@@ -36,7 +36,7 @@ position: relative;
 background-image: url("https://t3.ftcdn.net/jpg/01/59/35/46/500_F_159354603_kuWqUq8mHWQa88o6hNKn7smH8U9Rdu8D.jpg");
 background-size: cover;
 background-position: center 30%;
-padding-top:2em;
+padding-top:1em;
 border-top-style:solid;
 border-top-color:black;
 border-top-width: 0,2em;
@@ -71,7 +71,7 @@ bottom:0;
 
 #id{
 font-size:3.5em;
-padding-top:2em;
+padding-top:1em;
 text-align: center;
 background-image: url("https://t3.ftcdn.net/jpg/01/59/35/46/500_F_159354603_kuWqUq8mHWQa88o6hNKn7smH8U9Rdu8D.jpg");
 background-size: cover;
