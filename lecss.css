@@ -10,17 +10,78 @@ body::after {
   opacity: 0.3;
   top: 0;
   left: 0;
-  bottom: 0; 
+  bottom: -20%; 
   right: 0;
   position: fixed;
-  height: 120%;
+  height: auto;
   width: auto;
-  z-index: -1; 
+  z-index: -2; 
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
  }
 
 img {
 	width: 301px;
 	height: auto;
+}
+
+h1 {
+color: #3300FF;
+font-family: Impact;
+font-size:3.5em;
+padding-left: 10%;
+height : 3em;
+position: relative; 
+background-image: url("https://lh3.googleusercontent.com/-ayKZgVvCO_0/WG0Q2702BgI/AAAAAAAAFro/cEhryPQOBbg/s1600-h/azerty-qwerty%25255B4%25255D.jpg");
+background-size: cover;
+background-position: center 30%;
+padding-top:2em;
+border-top-style:solid;
+border-top-color:black;
+border-top-width: 0,2em;
+border-bottom-style:solid;
+border-bottom-color:black;
+border-bottom-width: 0,2em;
+}
+
+
+h2 {
+font-weight: bold;
+color: #3300FF;
+font-family: Impact;
+}
+
+p { 
+font-weight: bold;
+}
+
+h1>img{
+	
+width: 3.5em;
+height: auto; 
+position: absolute;
+right:0;
+bottom:0;
+
+
+
+
+}
+
+#id{
+font-size:3.5em;
+padding-top:2em;
+text-align: center;
+background-image: url("https://lh3.googleusercontent.com/-ayKZgVvCO_0/WG0Q2702BgI/AAAAAAAAFro/cEhryPQOBbg/s1600-h/azerty-qwerty%25255B4%25255D.jpg");
+background-size: cover;
+height : 3em;
+border-bottom-style:solid;
+border-bottom-color:black;
+border-bottom-width: 0,2em;
+border-top-style:solid;
+border-top-color:black;
+border-top-width: 0,2em;
 }
 
 
